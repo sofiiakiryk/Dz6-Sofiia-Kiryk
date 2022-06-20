@@ -1,0 +1,12 @@
+.card { width: 600px;
+height: 340px;
+background-image: url("textured-black-background-solid-black-background_266878-498.webp");
+background-size: cover;
+border-radius: 40px;
+color: blue;}
+.card-company {text-align:center; text-anchor: end;
+    height: 125px;
+margin: 0;}
+.card-name {text-align: center;
+height: 150px;
+margin: 0;}
